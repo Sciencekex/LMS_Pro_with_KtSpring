@@ -5,5 +5,5 @@ import org.springframework.context.support.ClassPathXmlApplicationContext
 
 
 fun main() {
-    val context:ApplicationContext = ClassPathXmlApplicationContext("applicationContext.xml")
+    val context: ApplicationContext = ClassPathXmlApplicationContext("applicationContext.xml")
 }
